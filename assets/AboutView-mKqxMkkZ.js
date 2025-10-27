@@ -1,0 +1,1 @@
+import{_ as o}from"./index-CqmS0vYK.js";import{c6 as t,z as s,c7 as a}from"./vuetify-CdQs1uHv.js";const r={},c={class:"about"};function n(i,e){return a(),t("div",c,[...e[0]||(e[0]=[s("h1",null,"This is an about page",-1)])])}const l=o(r,[["render",n]]);export{l as default};
