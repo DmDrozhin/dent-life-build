@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://dent-life.kiev.ua/sitemap.xml
+Disallow: /
