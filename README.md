@@ -1,11 +1,23 @@
 # 🦷 Дент-Лайф — стоматологічна клініка
 
-**«Дент-Лайф»** — сучасний SEO-орієнтований веб-сайт стоматологічної клініки, створений на **Vue 3**.  
-Проєкт реалізований як **SPA + SSG** рішення з акцентом на продуктивність, доступність та коректну індексацію пошуковими системами.
+**Сайт стоматологічної клініки «Дент-Лайф»** — сучасний, легкий і SEO-оптимізований сайт, створений на **Vue 3** з використанням новітніх технологій фронтенду.  
+Сайт призначений для презентації послуг, цін, відгуків та контактної інформації клініки.
 
-Сайт призначений для презентації клініки, напрямів лікування, послуг, SEO-статей, цін, відгуків та контактної інформації.
+🌐 **Демо:** [https://dent-life.kiev.ua](https://dent-life.kiev.ua)
 
-🌐 **Live demo:** https://dent-life.kiev.ua
+**Сторінки послуг що надаються клінікою:**
+
+🦷 **Гігієна ротової порожнини** [https://dent-life.kiev.ua/service/oral-hygiene](https://dent-life.kiev.ua/service/oral-hygiene)
+
+🦷 **Лікування зубів** [https://dent-life.kiev.ua/service/treatment](https://dent-life.kiev.ua/service/treatment)
+
+🦷 **Протезування зубів** [https://dent-life.kiev.ua/service/prosthetics](https://dent-life.kiev.ua/service/prosthetics)
+
+🦷 **Імплантація зубів** [https://dent-life.kiev.ua/service/implantation](https://dent-life.kiev.ua/service/implantation)
+
+🦷 **Рентген діагностика** [https://dent-life.kiev.ua/service/x-ray-diagnostics](https://dent-life.kiev.ua/service/x-ray-diagnostics)
+
+🦷 **Дитяча стоматологія** [https://dent-life.kiev.ua/service/pediatric-dentistry](https://dent-life.kiev.ua/service/pediatric-dentistry)
 
 ---
 
